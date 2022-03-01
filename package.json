@@ -1,10 +1,10 @@
 {
   "name": "@drorgl/openapi-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translate OpenAPI Summary and Description",
   "bin": "dist/src/main.js",
   "scripts": {
-    "build" : "tsc",
+    "build": "tsc",
     "run:debug": "ts-node src/main.ts"
   },
   "author": "Dror Gluska",
