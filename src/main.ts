@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import * as pack from "../package.json"
 import fs from "fs";
 import { Command } from "commander";
