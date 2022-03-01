@@ -1,6 +1,6 @@
 {
   "name": "@drorgl/openapi-translator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Translate OpenAPI Summary and Description",
   "bin": "dist/src/main.js",
   "scripts": {
