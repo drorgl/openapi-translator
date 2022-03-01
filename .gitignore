@@ -1,0 +1,6 @@
+node_modules
+dist
+drorgl-openapi-translator-*.tgz
+test/processed.json
+.vscode/settings.json
+test_output.json
