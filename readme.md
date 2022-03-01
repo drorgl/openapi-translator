@@ -2,7 +2,7 @@
 
 Translate OpenAPI Summary and Description
 
-This utility iterates over the entire json file looking for summary and description and translates the one by one via google translate.
+This utility iterates over the entire json file looking for summary and description and translates them one by one via google translate.
 
 Note: a cache is kept in ~/.openapi-translator for each language used so google translate won't block
 
